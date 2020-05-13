@@ -4,7 +4,7 @@ The first project of RoboND,
 
 Directory Structure
 The Project1 folder has the following directory structure:
-
+```text
 Project1                          # Build My World Project 
     ├── model                          # Model files 
     │   ├── myhouse
@@ -19,3 +19,4 @@ Project1                          # Build My World Project
     │   ├── myworld.world
     ├── CMakeLists.txt                 # Link libraries 
     └──                              
+```
