@@ -2,7 +2,8 @@
 The first project of RoboND,
 
 
-Directory Structure
+* Directory Structure
+
 The Project1 folder has the following directory structure:
 ```text
 Project1                          # Build My World Project 
