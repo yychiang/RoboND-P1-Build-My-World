@@ -14,7 +14,7 @@ Project1                          # Build My World Project
     │   │   ├── model.config
     │   │   ├── model.sdf
     ├── script                         # Gazebo World plugin C++ script      
-    │   ├── welcome_message.cpp
+    │   ├── hello.cpp
     ├── world                          # Gazebo main World containing models 
     │   ├── myworld.world
     ├── CMakeLists.txt                 # Link libraries 
