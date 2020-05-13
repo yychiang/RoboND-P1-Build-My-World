@@ -21,7 +21,7 @@ Project1                          # Build My World Project
     ├── CMakeLists.txt                 # Link libraries 
     └──                              
 ```
-If you want to view the robots along with their environment, just download it and put 'Project1' into your '/home' directory in Ubuntu. Then change the directory into world, just type:
+If you want to view the robots along with their environment, just download ZIP, extract it, and put 'Project1' into your '/home' directory in Ubuntu. Then change the directory into world, just type:
 ```
 $ cd ~/Project1/world
 ```
