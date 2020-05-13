@@ -20,3 +20,11 @@ Project1                          # Build My World Project
     ├── CMakeLists.txt                 # Link libraries 
     └──                              
 ```
+If you want to view the robots along with their environment, just download it and put 'Project1' into your '/Hoem' directory. The chang the directory into world, just type:
+```
+$ cd ~/Project1/world
+```
+Then, type:
+```
+$ gazebo myworld.world
+```
